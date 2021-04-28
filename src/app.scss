@@ -1,0 +1,11 @@
+.general-wrapper {
+  max-width: 1360px;
+  padding: 25px;
+  background-color: #ebf0f5;
+  & input {
+    margin: 0 auto;
+    display: flex;
+    width: 415px;
+  }
+}
+

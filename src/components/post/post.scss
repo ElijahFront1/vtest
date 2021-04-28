@@ -1,0 +1,14 @@
+.post-wrapper {
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+.post {
+    background-color: white ;
+    padding: 5px;
+    & h5 {
+        color: #72a9ea;
+    }
+}
+.name {
+    color: #72a9ea;
+}
